@@ -1,0 +1,9 @@
+c:\users\са\documents\visual studio 2015\Projects\List2\List2\bin\Debug\List2.exe.config
+c:\users\са\documents\visual studio 2015\Projects\List2\List2\bin\Debug\List2.exe
+c:\users\са\documents\visual studio 2015\Projects\List2\List2\bin\Debug\List2.pdb
+c:\users\са\documents\visual studio 2015\Projects\List2\List2\obj\Debug\List2.csprojResolveAssemblyReference.cache
+c:\users\са\documents\visual studio 2015\Projects\List2\List2\obj\Debug\List2.Form1.resources
+c:\users\са\documents\visual studio 2015\Projects\List2\List2\obj\Debug\List2.Properties.Resources.resources
+c:\users\са\documents\visual studio 2015\Projects\List2\List2\obj\Debug\List2.csproj.GenerateResource.Cache
+c:\users\са\documents\visual studio 2015\Projects\List2\List2\obj\Debug\List2.exe
+c:\users\са\documents\visual studio 2015\Projects\List2\List2\obj\Debug\List2.pdb

@@ -1,0 +1,6 @@
+c:\users\са\documents\visual studio 2015\Projects\Стек 1.3\Стек 1.3\bin\Debug\Стек 1.3.exe.config
+c:\users\са\documents\visual studio 2015\Projects\Стек 1.3\Стек 1.3\bin\Debug\Стек 1.3.exe
+c:\users\са\documents\visual studio 2015\Projects\Стек 1.3\Стек 1.3\bin\Debug\Стек 1.3.pdb
+c:\users\са\documents\visual studio 2015\Projects\Стек 1.3\Стек 1.3\obj\Debug\Стек 1.3.csprojResolveAssemblyReference.cache
+c:\users\са\documents\visual studio 2015\Projects\Стек 1.3\Стек 1.3\obj\Debug\Стек 1.3.exe
+c:\users\са\documents\visual studio 2015\Projects\Стек 1.3\Стек 1.3\obj\Debug\Стек 1.3.pdb
